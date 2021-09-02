@@ -11,6 +11,8 @@ and you wanted to use Burp Collaborator (or a service like 'requestbin.com') and
 For a single host, enter "./mahost-single.sh" and follow the prompt (Enter Host-to-Scan and Burp Collaborator URL)
 ### ----------------------------------------------------------------------------------------------------------
 
+
+
 ### ----------------------------------------------------------------------------------------------------------
 For a multiple hosts, first create a list of subdomains in format: (https://some.domain.com - one per line) and save it to a file (list.txt)
 Now run the command "./mahost-mass.sh" and follow the prompt (Enter list file [eg. list.txt] and then your Burp Collaborator URL)
