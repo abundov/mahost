@@ -14,7 +14,7 @@ echo
 echo
 echo "This is MaHost-single v1.0 - Test a single host if its vulnerable to Host Header SSRF Attack via Burp Collaborator + Curl"
 echo
-echo "Please enter the host to test for Host Header injection: (https://some.domain.com) "; read host
+echo "Please enter the host to test: (https://some.domain.com) "; read host
 echo "Please enter your Burp Collaborator URL where you will receive requests: "; read burpcollaborator
 echo
 echo
