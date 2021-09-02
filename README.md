@@ -19,7 +19,7 @@ Keep in mind it's very basic, and it gets straight to the point so we begin test
 <br>
 
 ----------------------------------------------------------------------------------------------------------
-## >>For a multiple hosts, first create a list of subdomains in format: (https://some.domain.com - one per line) and save it to a file (list.txt)
+## >>For multiple hosts, first create a list of subdomains in format: (https://some.domain.com - one per line) and save it to a file (list.txt)
 ## Now run the command "./mahost-mass.sh" and follow the prompt (Enter list file [eg. list.txt] and then your Burp Collaborator URL)
 ----------------------------------------------------------------------------------------------------------
 
