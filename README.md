@@ -6,6 +6,7 @@
 
 Let's say you wanted to check if a certain host (some.domain.com) is susceptible to Host Injection attack,
 and you wanted to use Burp Collaborator (or a service like 'requestbin.com') and Curl. Here is a solution!
+Keep in mind it's very basic, and it gets straight to the point so we begin testing and get results.
 
 <br>
 <br>
