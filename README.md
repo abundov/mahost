@@ -1,10 +1,9 @@
 # MaHost-single and MaHost-mass v1.0
 
-##### Check for Host-Header injection on a single or multiple hosts
-##### Saw a need and filled it using bash
+##### Check for Host-Header SSRF Attack on a single or multiple hosts
 ##### Please check mahost-single.sh and mahost-mass.sh for instructions on running the scripts
 
-Let's say you wanted to check if a certain host (some.domain.com) is susceptible to Host Injection attack,
+Let's say you wanted to check if a certain host (some.domain.com) is susceptible to Host Header SSRF attack,
 and you wanted to use Burp Collaborator (or a service like 'requestbin.com') and Curl. Here is a solution!
 Keep in mind it's very basic, and it gets straight to the point so we begin testing and get results.
 
