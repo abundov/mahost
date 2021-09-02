@@ -8,18 +8,18 @@ Let's say you wanted to check if a certain host (some.domain.com) is susceptible
 and you wanted to use Burp Collaborator (or a service like 'requestbin.com') and Curl. Here is a solution!
 <br>
 <br>
-### ----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
 ## For a single host, enter "./mahost-single.sh" and follow the prompt (Enter Host-to-Scan and Burp Collaborator URL)
-### ----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
 
 <br>
 <br>
 <br>
 
-### ----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
 ## For a multiple hosts, first create a list of subdomains in format: (https://some.domain.com - one per line) and save it to a file (list.txt)
 ## Now run the command "./mahost-mass.sh" and follow the prompt (Enter list file [eg. list.txt] and then your Burp Collaborator URL)
-### ----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
 
 <br>
 <br>
