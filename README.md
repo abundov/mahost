@@ -6,8 +6,10 @@
 
 Let's say you wanted to check if a certain host (some.domain.com) is susceptible to Host Injection attack,
 and you wanted to use Burp Collaborator (or a service like 'requestbin.com') and Curl. Here is a solution!
+
 <br>
 <br>
+
 ----------------------------------------------------------------------------------------------------------
 ## For a single host, enter "./mahost-single.sh" and follow the prompt (Enter Host-to-Scan and Burp Collaborator URL)
 ----------------------------------------------------------------------------------------------------------
