@@ -15,9 +15,9 @@ echo "  |_|  |_|\__,_|_| |_|\___/|___/\__|    |_| |_| |_|\__,_|___/___/   \_/ |_
 echo
 echo
 echo
-echo "This is MaHost-mass v1.0 - Test many hosts at once to see if they are vulnerable to Host Header Injection via Burp Collaborator + Curl"
+echo "This is MaHost-mass v1.0 - Test many hosts at once to see if they are vulnerable to Host Header SSRF Attack via Burp Collaborator + Curl"
 echo
-echo "Please enter the file which contains hosts to test for Host Header injection: (https://some.domain.com) "; read host
+echo "Please enter the file which contains hosts to test: (https://some.domain.com) "; read host
 echo "Please enter your Burp Collaborator URL where you will receive requests: "; read burpcollaborator
 echo
 echo
